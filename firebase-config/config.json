@@ -1,0 +1,12 @@
+{
+    "type": "Enter Your Value",
+    "project_id": "Enter Your Value",
+    "private_key_id": "Enter Your Value",
+    "private_key": "Enter Your Value",
+    "client_email": "Enter Your Value",
+    "client_id": "Enter Your Value",
+    "auth_uri": "Enter Your Value",
+    "token_uri": "Enter Your Value",
+    "auth_provider_x509_cert_url": "Enter Your Value",
+    "client_x509_cert_url": "Enter Your Value"
+}
